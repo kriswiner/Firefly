@@ -7,4 +7,4 @@ The Firefly is intended to be programmed via USB connector using the Arduino IDE
 This repository contains several Arduino sketches for the Firefly a bit more elaborate than those available in the example folder of the Arduino IDE.
 
 Firefly is available for purchase on Tindie.
-{Firefly}[https://user-images.githubusercontent.com/6698410/109915306-6d77ac80-7c66-11eb-9eba-2d169f79dbd4.jpg}
+!{Firefly}[https://user-images.githubusercontent.com/6698410/109915306-6d77ac80-7c66-11eb-9eba-2d169f79dbd4.jpg}
