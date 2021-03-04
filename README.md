@@ -8,3 +8,5 @@ This repository contains several Arduino sketches for the Firefly a bit more ela
 
 Firefly is available for purchase on Tindie.
 ![Firefly](https://user-images.githubusercontent.com/6698410/109915306-6d77ac80-7c66-11eb-9eba-2d169f79dbd4.jpg)
+
+![pinmap]()
