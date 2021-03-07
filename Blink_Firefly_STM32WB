@@ -35,7 +35,6 @@ void setup()
   digitalWrite(myLed, LOW);  // start with led off, since active HIGH
   
   /* Set up the RTC alarm interrupt */
-  RTC.setAlarmTime(16, 0, 10);    // Alarm time arbitrary
   RTC.enableAlarm(RTC_MATCH_ANY); // Alarm once per second
   
   RTC.attachInterrupt(alarmMatch); // interrupt every time the alarm sounds
