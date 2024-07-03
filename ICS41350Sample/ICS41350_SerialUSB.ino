@@ -2,7 +2,7 @@
  This example reads audio data from an Invensense's ICS41350 I2S microphone
  breakout board, and prints out the samples to the Serial console.
  
- It is assumed that the L/R pin is connected do D6.
+ On Firefly, PDM CLK is D8 and PDM Data is D9. L/R select is connected do D6.
  */
 
 #include <PDM.h>
